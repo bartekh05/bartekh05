@@ -42,10 +42,6 @@ The tools my day actually runs on:
   <img height="195" src="https://streak-stats.demolab.com/?user=bartekh05&theme=transparent&hide_border=true&card_width=420&ring=3178C6&fire=3178C6&currStreakLabel=808080&sideLabels=808080&dates=808080" alt="Contribution streak" />
 </p>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bartekh05&show_icons=true&hide_border=true&bg_color=00000000&icon_color=3178C6&title_color=3178C6&text_color=808080&count_private=true&include_all_commits=true" alt="GitHub stats" />
-</p>
-
 ---
 
 <p align="center">
